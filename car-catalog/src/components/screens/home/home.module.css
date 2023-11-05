@@ -1,0 +1,21 @@
+.item {
+	width: 370px;
+	outline: 1px solid white;
+	margin-bottom: 30px;
+}
+
+.item img {
+	width: inherit;
+}
+
+.info {
+	padding: 10px;
+}
+
+.info h2 {
+	margin-bottom: 10px;
+}
+
+.info p {
+	margin-bottom: 10px;
+}
